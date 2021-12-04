@@ -12,15 +12,11 @@ I like to create projects that simplify my daily life
 - 💬 &nbsp; Ask me about ...
 - 📫 &nbsp; How to reach me: ... -->
 
-<br />
-
 ### Connect me on:
 
 <!-- [<img align="left" alt="todo personal site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](todo) -->
 [<img alt="Andrea Santu | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andrea-santu-922464112/)
 [<img alt="androsanta | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/androsanta/)
-
-<br />
 
 ### Languages and Tools:
 
