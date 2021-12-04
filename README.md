@@ -3,6 +3,7 @@ I like to create projects that simplify my daily life
 
 - 🔭 &nbsp; I’m currently working at [GetApper](https://www.getapper.com/)
 - 👨🏻‍💻 &nbsp; Contributed to [Restlessness](https://github.com/getapper/restlessness)
+- 💙 &nbsp; React Native
 - ⌨️ &nbsp; I'm learning [Touch Typing](https://en.wikipedia.org/wiki/Touch_typing), with an average of 100 wpm
 - ⚡ &nbsp; Fun facts 🏍 🏋🏻‍♀️ 🎸: I love to ride motorcycles, to go to the gym and to play guitar
 
