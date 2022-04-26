@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew 👋 🤓
 I like to create projects that simplify my daily life
 
-- 🔭 &nbsp; I’m currently working at [GetApper](https://www.getapper.com/)
+- 🔭 &nbsp; I’m currently working at [Blue Reply](https://www.reply.com/blue-reply/it/)
 - 👨🏻‍💻 &nbsp; Contributed to [Restlessness](https://github.com/getapper/restlessness)
 - 💙 &nbsp; React Native
 - ⌨️ &nbsp; I'm learning [Touch Typing](https://en.wikipedia.org/wiki/Touch_typing), with an average of 100 wpm
